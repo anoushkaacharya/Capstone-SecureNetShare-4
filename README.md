@@ -23,7 +23,6 @@ Designed for the *Linux OS & Systems Programming Capstone Project* to demonstrat
 <img width="1920" height="1080" alt="Screenshot (545)" src="https://github.com/user-attachments/assets/6a84f1df-1e8f-4b96-8294-00de59befc27" />
 
 
-<img width="1920" height="1080" alt="Screenshot (546)" src="https://github.com/user-attachments/assets/a702f9df-b748-42fb-9e30-dc1fef2c051c" />
 
 
 ---
