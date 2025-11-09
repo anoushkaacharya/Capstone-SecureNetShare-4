@@ -1,0 +1,4 @@
+/home/aryan/Capstone/SecureNetShare/build/CMakeFiles/server.dir
+/home/aryan/Capstone/SecureNetShare/build/CMakeFiles/client.dir
+/home/aryan/Capstone/SecureNetShare/build/CMakeFiles/edit_cache.dir
+/home/aryan/Capstone/SecureNetShare/build/CMakeFiles/rebuild_cache.dir
