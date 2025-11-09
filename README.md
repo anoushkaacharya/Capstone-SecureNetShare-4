@@ -14,13 +14,17 @@ It supports reliable file uploads/downloads with SHA-256 integrity verification 
 Designed for the *Linux OS & Systems Programming Capstone Project* to demonstrate applied cybersecurity, encryption, and concurrent networking in C++.
 
 
-<img width="1920" height="1080" alt="Screenshot (543)" src="https://github.com/user-attachments/assets/8e627b90-8121-452d-b44d-1cc4a1088e7c" />
+<img width="1920" height="1080" alt="Screenshot (543)" src="https://github.com/user-attachments/assets/eae0b305-e281-4232-861c-1c7be1d73e85" />
 
-<img width="1920" height="1080" alt="Screenshot (544)" src="https://github.com/user-attachments/assets/da47a07a-52b4-4790-a198-f24ad8b3c9ed" />
 
-<img width="1920" height="1080" alt="Screenshot (545)" src="https://github.com/user-attachments/assets/7cb28ff2-8ddf-4589-96d8-a01e7f689b4e" />
+<img width="1920" height="1080" alt="Screenshot (544)" src="https://github.com/user-attachments/assets/b3c50f84-03f2-4df0-82a1-84db5399a94b" />
 
-<img width="1920" height="1080" alt="Screenshot (546)" src="https://github.com/user-attachments/assets/23f3475b-94fa-4219-a286-fb2717c37aa9" />
+
+<img width="1920" height="1080" alt="Screenshot (545)" src="https://github.com/user-attachments/assets/6a84f1df-1e8f-4b96-8294-00de59befc27" />
+
+
+<img width="1920" height="1080" alt="Screenshot (546)" src="https://github.com/user-attachments/assets/a702f9df-b748-42fb-9e30-dc1fef2c051c" />
+
 
 ---
 
